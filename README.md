@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Fırat Fatih Demiraran</h1>
+<h1 align="center">Hi 👋, I'm Fatih Demiraran</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Node**
