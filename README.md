@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Fatih Demiraran</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Node**
+- 🔭 I’m currently working on **.NET**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **fatih.demiraran07@gmail.com**
 
